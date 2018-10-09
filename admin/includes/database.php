@@ -53,7 +53,7 @@ Class Database{
 		return $escaped_string;
 	}
 
-	
+
 	// get one id
 	public function the_insert_id()
 	{
